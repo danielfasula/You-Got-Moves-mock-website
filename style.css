@@ -1,0 +1,21 @@
+body {
+      background-image: url(https://media.pagefly.io/file/get/yougotmoves-logo-cropped-1png-1535855179055.png);
+    background-size: contain;
+}
+
+.main-page {
+  color: white;
+}
+
+.underline {
+  text-decoration: underline;
+}
+
+h4 {
+  font-weight: bold;
+}
+
+.pop-up {
+  background-color: whitesmoke;
+  color: black;
+}
